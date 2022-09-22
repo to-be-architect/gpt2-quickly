@@ -7,3 +7,4 @@ tf-models-official
 tqdm
 click
 sentencepiece==0.1.96
+jieba
